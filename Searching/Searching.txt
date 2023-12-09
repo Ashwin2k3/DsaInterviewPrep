@@ -1,0 +1,11 @@
+Linear Searching 
+
+Time complexity O(n)
+
+For(int i=0; i< n ; I++){
+	if(arr[I] == key){
+		return I ;
+	}
+	return -1 ;
+}
+
